@@ -13,7 +13,7 @@ const Chat = () => {
   return (
     <div className="chat">
       <div className="chatInfo">
-      <img src= {data.user?.photoURL} alt="" style={{ height: '45px', width: '45px', borderRadius:'50%'}}/>
+      <img src= {data.user?.photoURL} alt="" style={{ height: '45px', width: '45px'}}/>
         <span style={{ marginLeft: '-830px'}}>{data.user?.displayName}</span>
         <div className="chatIcons">
           <img src={Cam} alt="" />
