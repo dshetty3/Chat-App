@@ -4,8 +4,8 @@ import { AuthContext } from '../context/AuthContext';
 import { ChatContext } from '../context/ChatContext';
 import { db, storage } from '../firebase';
 import { v4 as uuid } from 'uuid';
-import Attach from '/Users/dishashetty/Desktop/Chat-App/chat-app/src/img/attach.png';
-import Image1 from '/Users/dishashetty/Desktop/Chat-App/chat-app/src/img/img.png';
+import Attach from '/Users/dishashetty/Desktop/Chat-App1/Chat-App/src/img/attach.png';
+import Image1 from '/Users/dishashetty/Desktop/Chat-App1/Chat-App/src/img/img.png';
 import { getDownloadURL, ref, uploadBytesResumable } from 'firebase/storage';
 
 
