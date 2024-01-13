@@ -37,7 +37,7 @@ The application will be running at http://localhost:3000.
 
 ### Demo 
 
- <img src="/img/Demo.gif" alt="Chat-App" width="900" />
+ <img src="./src/img/Demo.gif" alt="Chat-App" width="900" />
 
 
 ### Prerequisites
