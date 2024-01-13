@@ -17,10 +17,12 @@ A real-time private chat application built with React and Firebase.
 ## Setup and code run
 
 - Navigate to the project directory:
-    ``` cd chat-app
+    ```bash 
+    cd chat-app
 
 - Install dependencies:
-    ``` npm install
+    ```bash 
+    npm install
 
 - Set up Firebase:
     Create a Firebase project: chat-app
@@ -28,7 +30,8 @@ A real-time private chat application built with React and Firebase.
     Copy your Firebase configuration from Project Settings and replace the placeholders in src/firebase/config.js with your own values.
 
  - Start the development server:
-    ``` npm start
+    ```bash 
+    npm start
 
 The application will be running at http://localhost:3000.
 
